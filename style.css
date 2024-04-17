@@ -1,0 +1,18 @@
+/* Add your CSS styles here */
+/* For example: */
+.todo-container {
+    display: flex;
+  }
+  
+  .left-pane {
+    flex: 1;
+    padding: 20px;
+  }
+  
+  .right-pane {
+    flex: 1;
+    padding: 20px;
+  }
+  
+  /* Add more styles as per your design */
+  
